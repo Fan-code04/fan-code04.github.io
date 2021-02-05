@@ -1,0 +1,33 @@
+nav.nav-wiki ul li.btnw{
+	display: inline-block;
+	list-style-type: none;
+	font-size: 25px;
+}
+nav.nav-wiki ul li.btnw a{
+	color: white;
+	background-color: #FF0101;
+	text-decoration: none;
+	padding: 5px;
+	border-radius: 10%;
+}
+nav.nav-wiki ul li.btnw:hover a{
+	background-color: #CC1F1F;
+	transition: 0.4s all;
+}
+header{
+	background-color: #1F322F;
+}
+
+header img{
+	border-radius: 50%;
+}
+header p.site{
+	display: inline-block;
+	vertical-align: top;
+}
+footer{
+	background-color: #1F322F;
+}
+p.footer{
+	color: white;
+}
